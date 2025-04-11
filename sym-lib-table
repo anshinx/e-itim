@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "egitimsym")(type "KiCad")(uri "${KIPRJMOD}/egitimsym.kicad_sym")(options "")(descr ""))
+)
